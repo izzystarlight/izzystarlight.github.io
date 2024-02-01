@@ -2,3 +2,7 @@ body {
     background-color: #35E2E8;
     font-family: 'Lexend', sans-serif;
 }
+
+h1 {
+    font-size: 3em;
+}
